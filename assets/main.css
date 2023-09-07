@@ -1,0 +1,11 @@
+/* ======== This is main.css ========= */
+
+h4{
+    font-size: 1.5rem;
+    color: aquamarine;
+    font-weight: 600;
+}
+.about{
+    color: blue;
+    font-variant: small-caps;
+}
